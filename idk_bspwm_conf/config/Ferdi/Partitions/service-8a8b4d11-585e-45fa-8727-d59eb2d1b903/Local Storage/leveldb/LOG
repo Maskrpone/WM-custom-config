@@ -1,0 +1,8 @@
+2022/02/28-10:19:59.918 66b Reusing MANIFEST /home/maskrpone/.config/Ferdi/Partitions/service-8a8b4d11-585e-45fa-8727-d59eb2d1b903/Local Storage/leveldb/MANIFEST-000001
+2022/02/28-10:19:59.919 66b Recovering log #3
+2022/02/28-10:19:59.927 66b Level-0 table #3: started
+2022/02/28-10:19:59.942 66b Level-0 table #3: 518059 bytes OK
+2022/02/28-10:19:59.945 66b Delete type=0 #3
+2022/02/28-10:22:03.358 70a Level-0 table #6: started
+2022/02/28-10:22:03.364 70a Level-0 table #6: 208066 bytes OK
+2022/02/28-10:22:03.366 70a Delete type=0 #4

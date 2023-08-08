@@ -1,0 +1,5 @@
+2022/02/27-22:13:15.791 1031 Creating DB /home/maskrpone/.config/Ferdi/Partitions/service-8a8b4d11-585e-45fa-8727-d59eb2d1b903/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2022/02/27-22:13:15.796 1031 Reusing MANIFEST /home/maskrpone/.config/Ferdi/Partitions/service-8a8b4d11-585e-45fa-8727-d59eb2d1b903/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/27-22:13:26.662 98b Level-0 table #5: started
+2022/02/27-22:13:26.684 98b Level-0 table #5: 1543420 bytes OK
+2022/02/27-22:13:26.689 98b Delete type=0 #3

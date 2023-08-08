@@ -1,0 +1,6 @@
+2022/02/27-22:06:43.515 7b0 Reusing MANIFEST /home/maskrpone/.config/Ferdi/Partitions/service-352390e8-0481-462a-8a2a-f7195bd2bc3a/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/27-22:06:43.516 7b0 Recovering log #3
+2022/02/27-22:06:43.528 7b0 Reusing old log /home/maskrpone/.config/Ferdi/Partitions/service-352390e8-0481-462a-8a2a-f7195bd2bc3a/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/02/27-22:06:45.948 837 Level-0 table #5: started
+2022/02/27-22:06:45.968 837 Level-0 table #5: 1814025 bytes OK
+2022/02/27-22:06:45.973 837 Delete type=0 #3
