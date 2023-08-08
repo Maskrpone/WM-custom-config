@@ -1,0 +1,22 @@
+move
+open_with 0
+unzip
+open_with 2
+rename rice1.png
+search 
+open_with 
+rename 2021-2022_TP_pendule_de_Pohl_Prep_2.pdf
+shell
+touch 
+shell echo "hi"
+shell notify-send "Hello" "Hello"
+search spoti
+search spotify
+
+shell thunar .
+delete
+open_with 1
+copy
+search bspwm
+cut
+paste

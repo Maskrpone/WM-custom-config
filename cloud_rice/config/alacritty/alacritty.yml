@@ -1,0 +1,56 @@
+# Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2017-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord Alacritty
+# Version:    0.1.0
+# Repository: https://github.com/arcticicestudio/nord-alacritty
+# License:    MIT
+# References:
+#   https://github.com/alacritty/alacritty
+
+colors:
+  primary: 
+    background: "#1A1826"
+    foreground: '#F2CDCD'
+    dim_foreground: '#a5abb6'
+  cursor:
+    text: '#2e3440'
+    cursor: '#d8dee9'
+  vi_mode_cursor:
+    text: '#2e3440'
+    cursor: '#d8dee9'
+  selection:
+    text: CellForeground
+    background: '#4c566a'
+  search:
+    matches:
+      foreground: CellBackground
+      background: '#88c0d0'
+    bar:
+      background: '#434c5e'
+      foreground: '#d8dee9'
+  normal:
+    black: '#1A1826'
+    red: '#F28FAD'
+    green: '#ABE9B3'
+    yellow: '#FAE3B0'
+    blue: '#96CDFB'
+    magenta: '#DDB6F2'
+    cyan: '#B5E8E0'
+    white: '#F5C2E7'
+
+font:
+  normal:
+    family: JetBrains Mono Nerd Font
+    style: Medium
+  bold:
+    family: JetBrains Mono Nerd Font
+    style: Bold
+  italic:
+    family: JetBrains Mono Nerd Font
+    style: MediumItalic
+  bold_italic:
+    family: Jetbrains Mono Nerd Font
+    style: BoldItalic
+
+
